@@ -13,8 +13,7 @@ local Scripts = {
 
     --// 🌱 GROW A GARDEN 2
     [126987765280963] = {
-        "https://raw.githubusercontent.com/KienOdjoy1/KyoshGame/refs/heads/main/growagarden2.lua",
-        "https://raw.githubusercontent.com/KienOdjoy1/KyoshGame/refs/heads/main/gag2fps.lua"
+        "https://raw.githubusercontent.com/KienOdjoy1/KyoshGame/refs/heads/main/KHgag.lua"
     }
 
 }
